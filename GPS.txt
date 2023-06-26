@@ -1,0 +1,17 @@
+Raya Dadap;agak lancar;20;20;30
+P. Jayakarta;agak lancar;13;13;16
+Gn. Sahari;lancar;8;8;8
+Kelapa Gading;agak lancar;15;15;19
+Bojong;macet;20;20;30
+Daan Mogot;macet;10;10;15
+Raya Serpong;lancar;16;16;16
+Slipi;lancar;9;9;9
+Pal Merah;agak lancar;10;10;13
+Kwitang;lancar;9;9;9
+Sudirman;agak lancar;11;11;14
+Setu Cipayung;macet;12;12;18
+TB Simatupang;macet;15;15;22
+Jambore;macet;13;13;19
+Ciputat;lancar;8;8;8
+Andara;lancar;7;7;7
+Parung;macet;12;12;36
